@@ -8,8 +8,6 @@ import Shoots from './components/Shoots';
 import Team from './components/Team';
 import Events from './components/Events';
 import './styles/App.css';
-import { loadFull } from "tsparticles";
-import { useCallback } from "react";
 
 function App() {
 
